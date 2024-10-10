@@ -1,5 +1,5 @@
 # About me
-- I work as a Full Stack Developer (C# and Vue.js) @ Linx
+- Full Stack Developer | C# | Vue.js
 - Computer Science @ UDESC
 - Game Dev Entusiast
   
